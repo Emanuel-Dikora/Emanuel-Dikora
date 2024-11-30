@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="de" itemtype="http://schema.org/webPage" itemscope=""><head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+  <meta name="color-scheme" content="dark light"/>
+  <meta name="description" content="Auf Dikora findest Du mit Spannenden Videos, lustigen Bildern und kurzen Clips jede Menge Spaß!"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="keywords content="Dikora, Messenger, Soziale Medien, Kommunikation, Social Media, Plattform"/>
+  <meta name="robots" content="nofollow, notranslate"/>
+  <title>Startseite | Dikora</title> 
+  <link href="Dikora.css" rel="stylesheet"/>
+  <link href="d3.png" rel="icon"/>
+  <link href="account" rel="preload"/>
+  <link href="chat" rel="preload"/>
+  <script src="Dikora.js"></script>
+  <script src="cookies.js"></script>
+  <script src="detection.js"></script>
+  <script src="lightdark.js"></script>
+</head><body id="body">
+  <div class="top">
+    <span style="white-space: nowrap;">
+      <img src="d3.png" class="dikora2" alt="Dikora" id="logo"/>
+      <a href="einstellungen">
+        <svg xmlns="http://www.w3.org/2000/svg" class="dikora">
+          <circle cx="25" cy="7" r="7" class="dikora"/>
+          <circle cx="25" cy="25" r="7" class="dikora"/>
+          <circle cx="25" cy="43" r="7" class="dikora"/>
+        </svg>
+      </a>
+      <a href="account">
+        <img src="p.png" id="userImage" class="dikora" alt="Dikora-Account"/>
+      </a>
+      <div class="searchbar"> 
+        <form>
+          <input type="text" class="search" placeholder="Dikora durchsuchen"  style="font-size: 120%;" required/>
+          <input type="submit" class="button3"  style="font-size: 120%;" value="Suchen"/>
+        </form>
+      </div>
+    </span>
+  </div>
+
+  <noscript>JavaScript ist deaktiviert oder in diesem Browser nicht verfügbar. Für die volle Funktionalität aktiviere bitte JavaScript in den Browsereinstellungen oder wechsle zu einem Browser der JavaScript unterstützt z.B. Chrome oder Firefox.</noscript>
+
+  <div class="bigscreen">
+<div class="dikora1" style="color: red;">Startseite</div><hr/><div class="dikora1">Chat</div><hr/><div class="dikora1">Gruppen</div>
+    </div>
+<div class="smallscreen">
+      <svg height="100" width="65" xmlns="http://www.w3.org/2000/svg">
+        <desc>Startseite</desc>
+        <path d="M32,7 65,33 55,33 55,75 12,75 12,33 2,33z" fill="#ff0000"/>
+      </svg>Chat Gruppen</div>
+</body></html>

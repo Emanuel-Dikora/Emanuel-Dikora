@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+  <meta name="color-scheme" content="dark light"/>
+  <title>Bedienungsanleitung | Dikora</title>
+  <link href="dikora.css" rel="stylesheet"/>
+  <link href="d3.png" rel="icon"/>
+
+</head>
+<body>
+  <div class="top">
+    <a href="einstellungen">
+      <img src="b.png" class="dikora2"/>
+    </a>
+    <img src="d3.png" class="dikora2" alt="Dikora" id="logo"/>
+    <p class="link1">ikora</p>
+  </div>
+  <hr/>
+  <h1>Auf Inhalte reagieren</h1>
+   <ul>
+      <li>
+        Um einen Post zu liken, tippe auf den glücklichen Smiley oder drücke die Tasten<kbd>Alt</kdb>und<kdb>M</kdb>auf Deiner Tastatur.
+      </li>
+
+      <li>
+        Um einen Post diszuliken, tippe auf den traurigen Smiley oder drücke die Tasten
+        <kbd>
+          Alt
+        </kdb>
+        und
+        <kdb>
+          J
+        </kdb>
+        auf Deiner Tastatur.
+      </li>
+    </ul>
+
+  <h1>
+    Dikora-Acount
+  </h1>
+  <p>
+    Um alle Funktionen zu nutzen, musst Du Dich mit Deinem Dikora-Account anmelden.
+    Das tust Du mit einem Klick auf die Schaltfläche "Anmelden". Gebe dsnn Deinen Username und Dein Passwort ein und schon kann es losgehen. Wenn Du noch keinen Dikora-Account hast, berühre die Schaltfläche "Registrieren" und fülle das Formular aus, um einen zu erstellen.
+  </p>

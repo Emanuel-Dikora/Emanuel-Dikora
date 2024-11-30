@@ -1,0 +1,56 @@
+<!DOCTYPE html><html><head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="color-scheme" content="dark light"/>
+  <title>Einstellungen | Dikora</title>
+  <link href="Dikora.css" rel="stylesheet"/>
+  <link rel="icon" type="image/ico+xml" href="d3.png"/>
+  <script></script>
+</head>
+<body>
+  <div class="top">
+    <a href="startseite">
+      <img src="b.png" class="dikora2"/>
+    </a>
+    <img src="d3.png" class="dikora2" alt="Dikora" id="logo"/>
+    <p class="link1">ikora</p>
+  </div>
+  <hr/>
+  <noscript>JavaScript ist deaktiviert oder in diesem Browser nicht verfügbar. Für die volle Funktionalität aktiviere bitte JavaScript in den Browsereinstellungen oder wechsle zu einem Browser der JavaScript unterstützt z.B. Chrome oder Firefox.</noscript>
+  <hr/>
+  <a href="plus" class="link1">
+    Dikora+
+    <img src="v.png" style="width: 30px; float: right;"/>
+  </a> 
+  <hr/> 
+  <a href="filter" class="link1">
+    Filter
+    <img src="v.png" style="width: 30px; float: right;"/>
+  </a>
+  <hr/>
+  <a href="design" class="link1">
+    Farbschema
+    <img src="v.png" style="width: 30px; float: right;"/>
+  </a>
+  <hr/>
+  <a href=".html" class="link1">
+    Entwicklerversion
+    <img src="v.png" style="width: 30px; float: right;"/>
+  </a> 
+  <hr/>
+  <a href="apps" class="link1">
+    Mehr von Dikora
+    <img src="v.png" style="width: 30px; float: right;"/>
+  </a>
+  <hr/>
+  <a href="opensource" class="link1">
+   Open-Source Quelltexte
+    <img src="v.png" style="width: 30px; float: right;"/>
+  </a>
+  <hr/>
+  <a href="bedienungsanleitung" class="link1">
+    Bedienungsanleitung
+    <img src="v.png" style="width: 30px; float: right;"/>
+  </a>
+  </body>
+  </html>

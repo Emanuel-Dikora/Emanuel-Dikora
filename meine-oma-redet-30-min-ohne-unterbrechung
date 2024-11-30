@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="color-scheme" content="dark light"/>
+  <meta name="description" content="So eskaliert es, wenn meine Oma nur einen neuen Hintergrund wollte und dafür Hilfe braucht. Respekt, wer das eine halbe Stunde aushält."/>
+  <title>Meine Oma redet 30 min ohne Unterbrechung</title> 
+  <link href="http://127.0.0.1:24907/SMB/0/NSA86-1/dikora.com/de/Dikora.css" rel="stylesheet"/>
+  <link href="d3.png" rel="icon"/>
+</head>
+<body>
+<body>
+  <div>
+    <a href="startseite" target="_top">
+      <img src="b.png" class="dikora2"/>
+    </a>
+    <a href=".html" class="link1 des">
+    <img src="pp.png" class="dikora2"/>
+      Emanuel
+    </a>
+    <img src="o.png" class="dikora" onclick="document.getElementById('options').click()"/>
+    <details class="dikora">
+      <summary class="dikora" style="display: none;" id="options">
+
+      </summary>
+      <p>
+        Mag ich
+      </p>
+      <p>
+        Mag ich nicht
+      </p>
+      <p>
+        Melden
+      </p>
+      <p>
+        Herunterladen
+      </p>
+      <p>
+        iframe-Text kopieren
+      </p>
+    </details>
+  </div>
+ 
+
+  <hr/>
+  <noscript>
+    JavaScript ist deaktiviert oder in diesem Browser nicht verfügbar. Für die volle Funktionalität aktiviere bitte JavaScript in den Browsereinstellungen oder wechsle zu einem Browser der Javascript unterstützt z.B. Chrome oder Firefox.
+  </noscript>
+  <br/>
+  <h1>
+    Meine Oma redet 30 min ohne Unterbrechung
+  </h1>
+  <p>
+    So eskaliert es, wenn meine Oma nur einen neuen Hintergrund wollte und dafür Hilfe braucht. Respekt, wer das eine halbe Stunde aushält.
+  </p>
+  <a href="" class="link2">#Oma </a><a href="" class="link2">#Nervig </a><a href="" class="link2">#Monolog </a>
+  <p style="text-align: center;">
+    <a href="dikoraPostList2.html">
+      <img src="b.png" style="width: 5%; float: left;"/>
+    </a>
+    <a href="dikoraPost%232.html">
+      <img src="v.png" style="width: 5%; float: right;"/>
+    </a>
+    <p style="text-align: center; width: 85%;">
+      <video controls width="100%" class="post" accesskey="g"> 
+        <source src="REC_20241025_140713.aac" type="video/mp4" class="post"/>
+      </video>
+    </p>
+</body>
+</html>

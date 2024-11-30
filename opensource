@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="robots" content="noindex, notranslate"/>
+  <meta name="color-scheme" content="dark light"/>
+  <title>Open-Source Quelltexte | Dikora</title>
+  <link href="Dikora.css" rel="stylesheet"/>
+  <link href="d3.png" rel="icon"/>
+  <script src="Dikora.js"></script>
+  <script src="reload.js"></script>
+</head>
+<body>
+  <div class="top">
+    <a href="einstellungen">
+      <img src="b.png" class="dikora2"/>
+    </a>
+    <img src="d3.png" class="dikora2" alt="Dikora" id="logo"/>
+    <p class="link1">ikora</p>
+  </div>
+  <hr/>
+  <noscript>
+    JavaScript ist deaktiviert oder in diesem Browser nicht verfügbar. Für die volle Funktionalität aktiviere bitte JavaScript in den Browsereinstellungen oder wechsle zu einem Browser der JavaScript unterstützt z.B. Chrome oder Firefox.
+  </noscript>  
+  <p class="link1" onclick="document.getElementById('scripts').click()">Scripte</p>
+  <details class="link1">
+    <summary id="scripts"></summary>
+    <a href="">Dikora.js</a>
+  </details>
+  <hr/>  
+  <p class="link1" onclick="document.getElementById('stylesheets').click()">Stylesheets</p>
+  <details class="link1">
+    <summary id="stylesheets">Stylesheets</summary>
+    <a href="">Dikora.css</a>
+  </details>
+  <hr/>
+  <a href="" class="link1">
+    HTML-Index
+  </a>
+  <hr/>
+  <a href="" class="link1">
+    Bilder
+  </a>
+  <p class="link1">
+    Verwendetes SVG:
+  </p>
+  <a href="http://www.w3.org/2000/svg" class="link2" target="_blank">http://www.w3.org/2000/svg</a>
+    

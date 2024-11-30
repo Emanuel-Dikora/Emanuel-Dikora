@@ -1,0 +1,83 @@
+
+//functions
+:root {color-scheme: dark light;}
+@media(max-width: 999px){
+  .search, .button3, .bigscreen{display: none;}
+}
+@media(min-width:1000px){
+  .smallscreen {visibility: hidden;}
+}
+//classes
+.action {overflow: scroll;}
+.top {height: 60px; border-bottom: 3px solid light-dark(#000000, #ffffff);}
+.login {text-align: center; width: 300px;
+border: none; background-color: light-dark(#DCdCdC, #696969);
+border-radius: 25px; padding: 10px; margin-left: auto; margin-right: auto;}
+.center {text-align: center;}
+.button1 {background-color: red; height: 48px;
+background-color: #ff0000;  font-size: 120%; color: #ffffff;
+width: 100%; text-align: center; font-family: sans-serif;
+border-radius: 50px;}
+.button2 {background-color: light-dark(#ffffff, #404040); height: 48px; font-size: 120%;width: 100%; color: light-dark(#000000, #ffffff); 
+text-align: center;
+border-radius: 50px;}
+.yes {display: block;}
+.no {display: none;}
+.input {font-size: 120%; height: 42px;
+width: 290px; font-family: sans-serif; border-radius: 50px;}
+.bigscreen {width: 300px; border-right: 3px solid light-dark(#000000, #ffffff);}
+.des {width: 60%;}
+.cookies {width: 95%; margin-left: auto; margin-right: auto; margin-top: 300px;}
+.dikora {float: right;
+width: 50px; border-radius: 50px;
+height: 50px;}
+.dikora2 {width: 40px; margin: none;
+float: left;
+}
+.smallscreen{position: fixed; bottom: 0;}
+.dikora1{position: relative; font-size: 200%; width: 150px;}
+.searchbar {text-align:center;}
+.link1 {font-size: 130%; margin: 0; margin-top: 10px; color: light-dark(#000000, #ffffff); height: 40px;
+font-family: sans-serif;
+text-decoration: none;}
+.post {max-height: 500px;
+max-width: 90%;
+margin-left: auto;
+margin-right: auto;}
+.message {width: 5%;}
+.advan {border: 3px solid red;
+border-radius: 50px;} 
+.dark {background-color: black;}
+.light {background-color: white;}
+.dikora3 {width: 50px; max-width: 15%; float: left;}
+.search {font-size: 120%; height: 42px;
+width: 40%;
+font-family: sans-serif;
+border-bottom-left-radius: 50px; border-top-left-radius: 50px; margin: 0px;
+}
+.button3 {background-color: red; color: white; width: 100px; text-align: center;  font-size: 120%;
+font-family: sans-serif; border-bottom-right-radius: 50px; border-top-right-radius: 50px; height: 42px;}
+//ids
+
+#userImage {float: right; width: 50px; border-radius: 50px;
+}
+//Woltzek ist ein Scheißdrecks-Name!
+#postList {background-color: black;}
+//elements
+body{overflow: hidden;}
+desc {display: none;}
+fieldset {border-radius: 50px;}
+path {background-color: red;}
+label {font-family: sans-serif;
+color: black; text-align: center;}
+input [type="radio"] {height: 40px;}
+a:hover {color: grey;}
+summary {display: none;}
+textarea {font-size: 200%; width: 100%;}
+circle, .nav {fill: light-dark(#000000, #ffffff);}
+
+*{font-family: sans-serif;}
+select {border: none;}
+noscript {background-color: yellow; font-size: 150%; color: black;font-family: sans-serif;}
+fieldset {border: none;}
+ 

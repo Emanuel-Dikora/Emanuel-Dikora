@@ -1,0 +1,55 @@
+<!DOCTYPE html><html lang="de" itemscope="webpage.org/schema" itemtype=""><head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="color-scheme" content="dark light"/>
+  <title>Dikora+ | Dikora</title>
+  <link href="Dikora.css" rel="stylesheet"/>
+  <link rel="icon" type="image/ico+xml" href="d3.png"/>
+</head><body>
+  <div class="top">
+    <a href="einstellungen">
+      <img src="b.png" class="dikora2"/>
+    </a>
+    <img src="d.png" class="dikora2" alt="Dikora" id="logo"/>
+  </div>
+  <hr/>
+  <noscript>
+    JavaScript ist deaktiviert oder in diesem Browser nicht verfügbar. Für die volle Funktionalität aktiviere bitte JavaScript in den Browsereinstellungen oder wechsle zu einem Browser der JavaScript unterstützt z.B. Chrome oder Firefox.</noscript>
+
+    <div class="login">
+      <h1>Wöchentlich</h1>
+      <ul>
+        <li>Nutze Dikora ohne Werbung</li>
+        <li>Habe Zugang zu Plus-exklusive Inhalten</li>
+        <li>Nutze den Dikora Marketplace ohne Zusatzgebühren</li>
+        <li>Hilf mit, Dikora weiter zu verbessern</li>
+        <li>Lade Inhalte für Offlinebetrieb herunter</li>
+      </ul>
+    </div>
+    <wbr/>
+    <div class="login">
+      <h1>Monatlich</h1>
+      <ul>
+        <li>Nutze Dikora ohne Werbung</li>
+        <li>Habe Zugang zu Plus-exklusive Inhalten</li>
+        <li>Nutze den Dikora Marketplace ohne Zusatzgebühren</li>
+        <li>Hilf mit, Dikora weiter zu verbessern</li>
+        <li>Lade Inhalte für Offlinebetrieb herunter</li>
+      </ul>
+    </div>
+    <wbr/>
+    <div class="login">
+      <h1>Einmalig</h1>
+      <ul>
+        <li>Nutze Dikora ohne Werbung</li>
+        <li>Habe Zugang zu Plus-exklusive Inhalten</li>
+        <li>Nutze den Dikora Marketplace ohne Zusatzgebühren</li>
+        <li>Hilf mit, Dikora weiter zu verbessern</li>
+        <li>Lade Inhalte für Offlinebetrieb herunter</li>
+      </ul>
+    </div>
+  </div>
+    <wbr/>
+  <a href="dikoraAnmelden.html" onclick="alert('Bitte melde Dich an, um Dikora+ zu kaufen.')">
+    <input type="button" class="button1" value="Dikora+ (9,99€)"/>
+  </a>
